@@ -32,6 +32,9 @@ If you want a great tutorial on building your first react native app, I suggest 
 Some tips and problem fixes I encountered:
 
 -Try coding with friends! If you have a couple buddies working on the same topic at the same time, you can debug with each other and help each other through problems.
+
 -If you receive a lengthy EPERM error while installing expo, try restarting your computer. This may terminate processes or other background activity that would interfere with the installation. 
+
 -If you are having trouble opening your expo project on your phone’s expo app, make sure you are on a tunnel connection instead of LAN. When devtools opens as you start your expo project, check the bottom left hand corner of the window. Switch the connection if it is not on the correct setting.
+
 -If you have further problems or have trouble with any of the steps, feel free to send me an email at saarang@bondalapati.com! I’ll be glad to help!
