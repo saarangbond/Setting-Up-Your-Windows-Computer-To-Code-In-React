@@ -3,29 +3,29 @@ This is a step-by-step tutorial to help you start coding with react! Follow the 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-First, download node.js. This may prompt you to install chocolatey and python, which may be useful for future endeavors. However, they are not absolutely required to code in react.
+First, download node.js: https://nodejs.org/en/download/ This may prompt you to install chocolatey and python, which may be useful for future endeavors. However, they are not absolutely required to code in react.
 
 Download the expo app for your mobile device to be able to test webapps on your phone. You will need to create an account, which you will need to sign into for the next step.
 
-Install expo-cli with npm in the terminal or command line. If the installation does not prompt you to login, try running expo login when the installation is complete.
+Install expo-cli with npm in the terminal or command line: https://www.npmjs.com/package/expo-cli. If the installation does not prompt you to login, try running expo login when the installation is complete.
 
-Follow this guide to download openssl and add it to the path.
+Follow this guide to download openssl and add it to the path: https://tecadmin.net/install-openssl-on-windows/.
 
-Optional: install bootstrap and reactstrap with npm - this may make it easier to build components in react native.
+Optional: install bootstrap: https://www.npmjs.com/package/bootstrap and reactstrap: https://www.npmjs.com/package/bootstrap with npm - this may make it easier to build components in react native.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-If you are working off of a github repository, then I suggest downloading either github desktop or git command line.
+If you are working off of a github repository, then I suggest downloading either github desktop: https://desktop.github.com/ or git command line: https://git-scm.com/downloads.
 
 With one of the two tools above, clone the repository you are working on to your system. Once you have done that, you can open the repository in your choice of IDEs and get started on coding react!
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-To run your project, use the expo tools you downloaded earlier. You may use this tutorial to figure out expo commands.
+To run your project, use the expo tools you downloaded earlier. You may use this tutorial to figure out expo commands: https://docs.expo.io/workflow/expo-cli/.
 
 Great job! You now know how to set up a machine to be able to code with react! 
 
-If you want a great tutorial on building your first react native app, I suggest watching this video and following along. Good luck and enjoy!
+If you want a great tutorial on building your first react native app, I suggest watching this video: https://www.youtube.com/watch?v=NuZOwsmzcro and following along. Good luck and enjoy!
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
