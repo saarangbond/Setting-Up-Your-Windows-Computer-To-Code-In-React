@@ -1,4 +1,4 @@
-# Setting-Up-Your-Computer-To-Code-In-React-
+# Setting-Up-Your-Computer-To-Code-In-React
 This is a step-by-step tutorial to help you start coding with react! Follow the steps below to get started!
 
 ----------------------------------------------------------------------------------------------------------------------------------------
