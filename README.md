@@ -11,7 +11,7 @@ Install expo-cli with npm in the terminal or command line: https://www.npmjs.com
 
 Follow this guide to download openssl and add it to the path: https://tecadmin.net/install-openssl-on-windows/.
 
-Optional: install bootstrap: https://www.npmjs.com/package/bootstrap and reactstrap: https://www.npmjs.com/package/bootstrap with npm - this may make it easier to build components in react native.
+Optional: install bootstrap: https://www.npmjs.com/package/bootstrap and reactstrap: https://www.npmjs.com/package/reactstrap with npm - this may make it easier to build components in react native.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
